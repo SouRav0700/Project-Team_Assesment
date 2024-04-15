@@ -1,0 +1,4 @@
+Task 2: Controlling Annotation Job/Task Suppose, you have been assigned a dataset that consists of 100,000 images on 02 February, 2024. The dataset has 3 different classes Bounding Box, Polygon and Keypoint with individual annotation benchmarks 10, 15 and 5 seconds and Quality Check benchmarking 5, 7 and 3 seconds. Every single image has 1 object of each class on average. Also, the estimated total effective working hours of an annotator is 6 hours a day. Now, how would you identify the following things,
+1.	The total effective working hour to finish the task including and excluding the Quality Check
+2.	The total number of annotators required to accomplish the task in 10 days
+3.	Identify the estimated date to deliver the project to the client if you have got extra 5 annotators from HR (exclude off-days).
